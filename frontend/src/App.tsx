@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import DiffieHellmanPage from "./pages/DiffieHellmanPage";
 import RsaPage from "./pages/RsaPage";
-import ExchangePage from "./pages/Exchange";
+import ExchangePage from "./pages/ExchangePage";
 
 function App() {
   return (
