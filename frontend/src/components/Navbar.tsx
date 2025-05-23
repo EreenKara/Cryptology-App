@@ -14,6 +14,9 @@ const Navbar = () => {
     <nav className="bg-white shadow-md py-4 px-8 flex items-center justify-between">
       <h1 className="text-xl font-bold text-indigo-600">🔐 Cryptology App</h1>
       <div className="space-x-4">
+        <Link to="/rc4" className={linkClass("/rc4")}>
+          RC4
+        </Link>
         <Link to="/" className={linkClass("/")}>
           Diffie-Hellman
         </Link>

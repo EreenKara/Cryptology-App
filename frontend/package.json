@@ -17,6 +17,7 @@
     "@tailwindcss/vite": "^4.1.7",
     "autoprefixer": "^10.4.21",
     "classnames": "^2.5.1",
+    "crypto-js": "^4.2.0",
     "postcss": "^8.5.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
